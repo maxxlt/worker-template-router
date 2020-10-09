@@ -1,7 +1,7 @@
 name = "router"
 type = "webpack"
 
-account_id = ""
+account_id = "73d11ce7290f770fa6be48663fa71698"
 workers_dev = true
 route = ""
 zone_id = ""
